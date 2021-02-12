@@ -1,12 +1,12 @@
-# Vec
+# Ord
 A Python package to help me and maybe other people use more efficient lists
 
 ## Usage:
 
-`pip install Vec`
+`pip install Ord`
 
 ```py
-from Vec.vector import Vector
+from Ord.order import Order
 ```
 
 ## Wiki
