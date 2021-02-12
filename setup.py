@@ -8,7 +8,7 @@ setup(
   description = 'A package to help me and maybe other people use more efficient lists',   # Give a short description about your library
   author = 'shachy',                   # Type in your name
   author_email = 'shachar262@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/shachy/Vec',   # Provide either the link to your github or to your website
+  url = 'https://github.com/shachy/Ord',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/shachy/Ord/archive/0.1.zip',    # I explain this later on
   keywords = ['list', 'vector', 'order'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
