@@ -3,10 +3,10 @@ A Python package to help me and maybe other people use more efficient lists
 
 ## Usage:
 
-`pip install ord`
+`pip install enx`
 
 ```py
-from Ord.order import Order
+from Enx.vector import Vector
 ```
 
 ## Wiki
